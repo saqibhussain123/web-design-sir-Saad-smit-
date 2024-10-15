@@ -1,0 +1,50 @@
+.main{
+    background-color: black;
+    color: aliceblue;
+     display: flex;
+    /* justify-content: flex-start;
+    justify-content: flex-end; 
+     this is a x axis direction property (horizantal property)
+    
+    justify-content: space-evenly;
+    justify-content: space-around;
+    justify-content: space-between;
+    */
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+     /* flex-direction: row; */
+     /* flex-direction: row-reverse;   */
+ height: 300px;
+
+
+      
+      /* this is a y-axis property (vertical property) */
+
+      /* justify-content: flex-start; */
+    padding: 5px;
+    /* align-items: flex-end; */
+    /* align-items: flex-end;
+    justify-content: flex-end; */
+/* align-items: flex-start;
+justify-content: flex-end; */
+align-items: center;
+justify-content: center;
+justify-content: space-around;
+}
+.one{
+    background-color: aqua;
+    align-self: flex-end;
+}
+.two{
+    background-color: rgb(7, 211, 17);
+    align-self: flex-start;
+}
+.three{
+    background-color: rgb(238, 186, 14);
+}
+.fourth{
+    background-color: rgb(165, 16, 252);
+}
+.five{
+    background-color: rgb(67, 0, 252);
+}

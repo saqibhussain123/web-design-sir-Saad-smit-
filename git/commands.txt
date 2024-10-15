@@ -1,0 +1,37 @@
+git status
+
+git init
+
+
+git status
+
+
+git add .
+
+
+git status
+
+
+git commit -m 'half commit'
+
+
+
+git config --global user.name 'saqib'
+
+git config --global user.email 'saqib@gmail.com'
+
+git remote add origin (git report: url)
+
+
+git push -u origin master
+
+
+update
+
+
+1)
+git add .
+
+
+git status
+

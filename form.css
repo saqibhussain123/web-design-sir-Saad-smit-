@@ -1,0 +1,13 @@
+input{
+    background-color: blue;
+
+}
+input:hover{
+    background-color: brown;
+}
+input:active{
+    background-color: blueviolet;
+}
+input:focus{
+    background-color: green;
+}

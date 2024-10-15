@@ -1,0 +1,9 @@
+ul{
+background-color: aquamarine;
+position: sticky;
+top: 0px;
+}
+ul >li{
+    display: inline-block;
+    width: 220px;
+}
